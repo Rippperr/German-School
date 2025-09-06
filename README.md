@@ -12,8 +12,14 @@ You can view the live project here:
 German Genius 
 
 
+
+
+
 📸 Screenshot
 (Note: Replace with an actual screenshot of your project)
+
+
+
 
 
 ✨ Key Features
@@ -31,31 +37,21 @@ Seamless Navigation: An intuitive and user-friendly navigation structure for an 
 
 
 
+
+
+
 🛠️ Tech Stack & Skills Required
 
 This project was built using the following technologies and demonstrates proficiency in the listed skills:
 
-Frontend Development:
+Frontend Development: HTML5, CSS3, JavaScript (for DOM manipulation and interactivity) 
 
-HTML5 
+CSS Frameworks: Bootstrap (for responsive layout and components)
 
-CSS3 
+Core Concepts Demonstrated: Responsive Web Design, Front-End Performance Optimization, Cross-Browser Compatibility, UI/UX Principles
 
-JavaScript (for DOM manipulation and interactivity) 
 
-CSS Frameworks:
 
-Bootstrap (for responsive layout and components) 
-
-Core Concepts Demonstrated:
-
-Responsive Web Design
-
-Front-End Performance Optimization
-
-Cross-Browser Compatibility
-
-UI/UX Principles
 
 
 
@@ -69,6 +65,9 @@ Navigate to the project directory:
 cd german-school
 
 Open the index.html file in your favorite browser.
+
+
+
 
 
 
